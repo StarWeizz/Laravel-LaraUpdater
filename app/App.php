@@ -11,7 +11,7 @@ class App
      *
      * @var string
      */
-    private const VERSION = '1.0.0';
+    private const VERSION = '1.0.1';
 
     /**
      * Get the current version of the Website.

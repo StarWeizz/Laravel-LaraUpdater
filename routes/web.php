@@ -16,7 +16,7 @@ use App\Http\Controllers\IndexController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('auth.register');
 });
 
 Route::middleware([
